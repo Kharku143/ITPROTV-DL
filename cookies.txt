@@ -1,0 +1,21 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.acilearning.com	TRUE	/	FALSE	1701150896	_gcl_au	1.1.1076245311.1693374896
+.acilearning.com	TRUE	/	TRUE	1701158767	_rdt_uuid	1693374896027.a6221997-5b6c-46e3-95df-f15d27283671
+app.acilearning.com	FALSE	/	TRUE	1725005168	_wchtbl_uid	5a1871ea-503f-4812-b228-4ea0f61a4f9f
+app.acilearning.com	FALSE	/	FALSE	1724910896	__pdst	020bf423aa12465591a0cf5f8956535c
+.acilearning.com	TRUE	/	FALSE	1693469167	_gid	GA1.2.1128393641.1693374896
+.app.acilearning.com	TRUE	/	TRUE	1727942770	_zitok	d6f18aba3dfbba151ac11693374903
+.acilearning.com	TRUE	/	FALSE	1716707089	intercom-id-g400n3to	ff415b03-7cd4-499b-aa25-f46a894e6329
+.acilearning.com	TRUE	/	FALSE	1716712769	intercom-device-id-g400n3to	f36e6fc9-79cc-490c-bbf1-bc071b665224
+.acilearning.com	TRUE	/	TRUE	1724918768	_hjSessionUser_1836771	eyJpZCI6IjZiNzE3ZDYyLTBmZTQtNTIzMy05NzcyLTc2OGUxZWVjZTBiZSIsImNyZWF0ZWQiOjE2OTMzNzQ4OTY2MzQsImV4aXN0aW5nIjp0cnVlfQ==
+app.acilearning.com	FALSE	/	TRUE	0	_wchtbl_sid	2ca75bb2-17ac-46e5-a7cd-53ac0b3fb8e8
+.acilearning.com	TRUE	/	TRUE	0	itpro.sid	s%3Apg3Tv5O3B-Zm8JSJbHYBxPJ2BN3Gg3D4.hqsXEYCIIjFMJwBuJd3BEdvOUmPkb36OElFK2b4JCzk
+.acilearning.com	TRUE	/	TRUE	1693385851	_hjSession_1836771	eyJpZCI6IjI2MmJkNzgxLWYzNWItNDdiNi1iNjc4LTU0OTNmZTQ5MzhhNSIsImNyZWF0ZWQiOjE2OTMzODI3NTY4OTEsImluU2FtcGxlIjpmYWxzZX0=
+.acilearning.com	TRUE	/	TRUE	1693385851	_hjAbsoluteSessionInProgress	0
+.acilearning.com	TRUE	/	FALSE	1727942768	_ga	GA1.1.1556441999.1693377081
+.acilearning.com	TRUE	/	FALSE	1727942768	_ga_8VC9JQT0S7	GS1.1.1693382755.3.1.1693382768.0.0.0
+.acilearning.com	TRUE	/	FALSE	1693987569	intercom-session-g400n3to	QUtLalBKNGEwc3BoTHhOWjcyTElGMFg4TDAvM2JKMzhlV2YxdkFkSkJDaXd4bTQxR2xYZnBVTDUxM2xwRkVnUi0tb3drL0pmVTk5U211ZGNRcnJQT245UT09--ba25c990bca6749260b8562aca7a5f0767a7b694
+.acilearning.com	TRUE	/	FALSE	1727942770	_ga_V8NV84GYH2	GS1.1.1693382755.3.1.1693382770.45.0.0
